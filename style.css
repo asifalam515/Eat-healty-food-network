@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+}
+.orange-color{
+    color:#FB8A46 ;
+}
+.header-text{
+    width: 50%;
+
+}
+.header-img{
+    width: 50%;
+}
+.header-img >img{
+    width: 60%;
+}
