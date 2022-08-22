@@ -1,5 +1,12 @@
+/* google font */
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
 .header{
     display: flex;
+    
 }
 .orange-color{
     color:#FB8A46 ;
@@ -10,7 +17,23 @@
 }
 .header-img{
     width: 50%;
+   
+
+}
+.anchor{
+    text-decoration: none;
+    background-color: #FB8745;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
 }
 .header-img >img{
-    width: 60%;
+    width: 50%;
+    background-image: url('./images/shapes/Group\ 8450.png');
+    background-repeat: no-repeat;
+}
+
+/* about me section */
+.about-me{
+    display: flex;
 }
